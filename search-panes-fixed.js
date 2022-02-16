@@ -9,7 +9,7 @@ $(function() {
       <'row'<'col-sm-12 col-md-5'i><'col-sm-12 col-md-7'p>>
     `,
     searchPanes: {
-      layout: `columns-2,
+      layout: `columns-2`,
       cascadePanes: true,
       viewTotal: true
     },
